@@ -28,9 +28,9 @@ To run the Weather App locally or integrate it into your project, follow these s
 5.Test the app with various locations and scenarios to ensure it functions correctly.  
 
 ### Folder Structure
-**index.html:** The main HTML file containing the app's structure and content.
-**style.css:** The CSS file responsible for styling the app.
-**script.js:** JavaScript code for user interactions, API requests, and data presentation.
+**index.html:** The main HTML file containing the app's structure and content.  
+**style.css:** The CSS file responsible for styling the app.  
+**script.js:** JavaScript code for user interactions, API requests, and data presentation.  
 
 ### API Integration
 This app integrates with a weather API to fetch weather data. Ensure you have an API key and replace it in the **'script.js'** file where specified.
